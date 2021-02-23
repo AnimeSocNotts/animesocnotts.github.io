@@ -1744,6 +1744,24 @@ a {
     padding: 2rem;
   }
 }
+.cid-spNplgRVsZ {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-spNplgRVsZ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-spNplgRVsZ img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-spNplgRVsZ .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sa2HO7otIW {
   padding-top: 2rem;
   padding-bottom: 2rem;
