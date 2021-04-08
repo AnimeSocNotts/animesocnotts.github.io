@@ -52,7 +52,10 @@
     "cookiesAlert": false,
     "gdpr": false,
     "screenshot": "screenshot.png",
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "witsec-language": "en",
+    "mbrsiteDomain": "x57lx3bmdd",
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
