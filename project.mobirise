@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AnimeSoc Website",
-    "currentPage": "index.html",
+    "currentPage": "zine.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2000,7 +2000,8 @@
       "settings": {
         "title": "Download The Zine | AnimeSoc Nottingham",
         "order": 1,
-        "meta_descr": "Download the latest Zine here!"
+        "meta_descr": "Download the latest issue of The Zine here!",
+        "meta_image": "@PROJECT_PATH@/assets/images/front_cover-774x601.jpg"
       },
       "components": [
         {
