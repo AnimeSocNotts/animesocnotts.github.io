@@ -1625,27 +1625,6 @@ a {
     padding: 2rem;
   }
 }
-.cid-sOmXfflEsH {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sOmXfflEsH .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sOmXfflEsH .row {
-  flex-direction: row-reverse;
-}
-.cid-sOmXfflEsH img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sOmXfflEsH .text-wrapper {
-    padding: 2rem;
-  }
-}
 .cid-sKD9FXc5Ui {
   padding-top: 30px;
   padding-bottom: 30px;
