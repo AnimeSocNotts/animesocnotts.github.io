@@ -1235,6 +1235,11 @@ a {
 .cid-sa29CXaJoN .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
+.cid-sa29CXaJoN .card-text,
+.cid-sa29CXaJoN .mbr-section-btn,
+.cid-sa29CXaJoN .social-row P {
+  text-align: center;
+}
 .cid-sKD9FXc5Ui {
   padding-top: 30px;
   padding-bottom: 30px;
